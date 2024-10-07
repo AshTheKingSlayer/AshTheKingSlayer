@@ -93,6 +93,6 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/AshTheKingSlayer/AshTheKingSlayer/output/snake.svg](https://github.com/AshTheKingSlayer/AshTheKingSlayer/blob/ed5ef160bd4be43a7fd3eef3818af0bea6bddb2f/github-contribution-grid-snake.svg)" alt="Snake animation" />
+<img src="github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
